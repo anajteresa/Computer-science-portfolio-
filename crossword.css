@@ -30,9 +30,17 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: white;
 }
 
 h3 {
     color: maroon;
+}
+
+body {
+    background-color: teal;
+}
+
+#navbar li {
+    display: inline-block;
 }
